@@ -83,7 +83,7 @@ For each signal, the following message will be sent back to the sender:
 - `signal_path`: osc path the signal
 - `direction`: "in" or "out"
 - `min`: minimum value
-- `min`: maximum value
+- `max`: maximum value
 - `default`: default value
 
 
